@@ -25,8 +25,7 @@
 
 **基本命令**:
 ```
-/chunkview - 切换区块显示开关
-/chunkview <范围> - 设置显示范围(0-5)
+/function border
 ```
 
 **示例**:
